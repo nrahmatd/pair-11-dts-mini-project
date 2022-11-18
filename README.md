@@ -1,4 +1,4 @@
-# DTS Mini Project (UNDER DEVELOPMENT) ![image](https://user-images.githubusercontent.com/25714507/202611133-c6bc7737-55be-40a3-aa51-7e80e9ef73fa.png)
+# DTS Mini Project (UNDER DEVELOPMENT) ⚠️
 
 Ketentuan lengkap bisa dilihat di [Mini Project Guidelines](https://docs.google.com/document/d/1DzBNYJMhruoOQK0NOqiW3_UZ1JrA285K53PzHLNf9mc/edit?usp=sharing).
 
